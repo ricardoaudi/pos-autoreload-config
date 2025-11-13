@@ -3,7 +3,7 @@
   "default": {
     "enabled": true,
     "tz": "America/Argentina/Buenos_Aires",
-    "daily": ["01:26", "12:30", "16:00"],
+    "daily": ["01:29", "01:32", "01:34", "01:36"],
     "weekly": {
       "Mon": ["09:00", "15:00"],
       "Tue": [],
@@ -15,5 +15,6 @@
     }
   }
 }
+
 
 
