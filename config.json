@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "default": {
+    "enabled": true,
+    "tz": "America/Argentina/Buenos_Aires",
+    "daily": ["09:00","12:30","16:00"],   // se ejecuta todos los días a estas horas
+    "weekly": {                           // (opcional) reemplaza/agrega por día
+      "Mon": ["09:00","15:00"],
+      "Tue": [],
+      "Wed": ["10:00"],
+      "Thu": [],
+      "Fri": ["18:30"],
+      "Sat": [],
+      "Sun": []
+    }
+  }
+}
